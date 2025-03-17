@@ -1,0 +1,42 @@
+# Virtual environment
+venv/
+.env/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+*.swo
+*.DS_Store
+
+# IDE/editor configuration files
+.vscode/
+.idea/
+
+# Test-related files
+.coverage
+.tox/
+nosetests.xml
+pytest_cache/
+htmlcov/
+
+# Secrets and environment variables
+.env
+*.env
+
+# Compiled files
+*.so
+*.dll
+*.dylib
+*.pyd
+
+# Build and distribution directories
+*.egg
+*.egg-info/
+dist/
+build/
